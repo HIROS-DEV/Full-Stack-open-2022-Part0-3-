@@ -23,7 +23,8 @@ This course is not for CSS. So, the site is not fancy...
 <img src="./src/screenshot.png"/>
 
 ## .env file
-MONGODB_URI= "your mongodb uri here"
+
+MONGODB_URI= "your mongodb uri here" </br>
 PORT= "your localhost port number here"
 
 Through the courses, I got the more knowledge of the latest web developer's world.
