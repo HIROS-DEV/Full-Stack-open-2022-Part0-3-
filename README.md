@@ -20,7 +20,7 @@ But as of today, the application is working in this URL (https://phonebook-fulls
 
 ## ScreenShots of the project
 This course is not for CSS. So, the site is not fancy...
-<img src="/screenshot.png"/>
+<img src="./src/screenshot.png"/>
 
 Through the courses, I got the more knowledge of the latest web developer's world.
 Fundamentals is always most important thing in the programming world.
